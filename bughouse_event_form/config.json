@@ -1,0 +1,8 @@
+{
+  "project": "Bug House Customer Event Form",
+  "version": "1.0",
+  "description": "Netlify-ready form for customer events under Bug House brand.",
+  "brandColor": "#7C2529",
+  "formHandler": "Netlify Forms",
+  "redirect": "success.html"
+}
